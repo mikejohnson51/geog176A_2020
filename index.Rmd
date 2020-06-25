@@ -1,0 +1,17 @@
+---
+title: "&nbsp;"
+---
+
+<br><br>
+
+<center>
+![](img/ucsb-navy-white.png)
+
+# Welcome to Geography 176A
+## Summer Session B
+
+</center>
+  
+Geography 176A is a course taught by UCSB Geography intended to teach the fundamentals of GIS, data science. 
+
+<hr>

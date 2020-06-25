@@ -1,0 +1,24 @@
+---
+title: "&nbsp;"
+---
+<br><br>
+
+<center>
+# People
+## Summer Session B
+
+</center>
+
+```{r, echo = FALSE}
+library(icon)
+```
+
+#### `r fa("globe", color = "green")` **Mike Johnson** [repo](https://github.com/mikejohnson51/mikejohnson51.github.io) --- [webpage](http://mikejohnson51.github.io)
+  - Instructor
+  - Water Resources
+  
+  
+  
+  
+  
+<hr>

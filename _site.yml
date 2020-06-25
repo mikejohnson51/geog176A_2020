@@ -1,0 +1,22 @@
+name: "Geography 176A 2020"
+output_dir: "."
+navbar:
+  title: "Course Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Students"
+      icon: fa-user
+      href: roster.html
+    - text: "Assignments"
+      icon: fa-pencil
+      href: assignments.html
+  right:
+    - icon: fa-github
+      href: https://github.com/mikejohnson51/geog176A_2020
+output:
+  html_document:
+    theme: yeti
+    includes:
+      after_body: footer.html
