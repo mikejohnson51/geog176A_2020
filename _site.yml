@@ -9,9 +9,6 @@ navbar:
     - text: "Students"
       icon: fa-user
       href: roster.html
-    - text: "Assignments"
-      icon: fa-pencil
-      href: assignments.html
   right:
     - icon: fa-github
       href: https://github.com/mikejohnson51/geog176A_2020

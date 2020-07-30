@@ -12,6 +12,6 @@ title: "&nbsp;"
 
 </center>
   
-Geography 176A is a course taught by UCSB Geography intended to teach the fundamentals of GIS, data science. 
+Geography 176A is a course taught by UCSB Geography intended to teach the fundamentals of GIS, and spatial data science. 
 
 <hr>
