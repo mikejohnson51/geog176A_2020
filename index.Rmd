@@ -1,8 +1,25 @@
 ---
 title: "&nbsp;"
+output:
+  html_document:
+    includes:
+      after_body: footer.html
 ---
 
 <br><br>
+
+<style>
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10%
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+</style>
 
 <center>
 ![](img/ucsb-navy-white.png)
@@ -14,4 +31,8 @@ title: "&nbsp;"
   
 Geography 176A is a course taught by UCSB Geography intended to teach the fundamentals of GIS, and spatial data science. 
 
-<hr>
+<br>
+
+
+
+

@@ -1,24 +1,26 @@
 ---
 title: "&nbsp;"
 ---
+
 <br><br>
-
-<center>
-# People
-## Summer Session B
-
-</center>
 
 ```{r, echo = FALSE}
 library(icon)
 ```
 
 #### `r fa("globe", color = "green")` **Mike Johnson** [repo](https://github.com/mikejohnson51/mikejohnson51.github.io) --- [webpage](http://mikejohnson51.github.io)
-  - Instructor
-  - Water Resources
+  - `r fa("user")` Instructor
+  - `r fa("university")` Water Resources
+  - `r fa("map-marker")` 34.41, -119.84
   
+#### `r fa("database", color = "blue")` **Matt Feliciano** [repo]() --- [webpage]()
+  - `r fa("user")` Teaching Assistant
+  - `r fa("university")`
+  - `r fa("map-marker")` 40.1, -74.4
   
-  
-  
-  
-<hr>
+#### `r fa("traffic-light", color = "red")` **Jiwon Baik** [repo]() --- [webpage]()
+  - `r fa("user")` Teaching Assistant
+  - `r fa("university")` 
+  - `r fa("map-marker")` 35.9, 127.7
+
+<br>

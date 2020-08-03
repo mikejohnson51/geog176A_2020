@@ -10,10 +10,8 @@ navbar:
       icon: fa-user
       href: roster.html
   right:
-    - icon: fa-github
-      href: https://github.com/mikejohnson51/geog176A_2020
+    - icon: fa-globe fa-lg
+      href: https://github.com/mikejohnson51/spds
 output:
   html_document:
     theme: yeti
-    includes:
-      after_body: footer.html
