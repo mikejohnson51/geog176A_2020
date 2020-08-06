@@ -23,4 +23,10 @@ library(icon)
   - `r fa("university")` 
   - `r fa("map-marker")` 35.9, 127.7
 
+#### `r fa("space-shuttle", color = "green")` **Tyler Chia** [repo](https://github.com/TylerChia/TylerChia) --- [webpage](https://tylerchia.github.io/TylerChia/)
+
+  - `r fa("user")` Second Year Econ and Statistics and Data Science Majors
+  - `r fa("university")` Econometrics
+  - `r fa("map-marker")` 37.46, -122.24
+  
 <br>
