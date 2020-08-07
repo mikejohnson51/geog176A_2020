@@ -39,4 +39,10 @@ library(icon)
   - `r fa("user")` Fourth Year Geography Major
   - `r fa("university")` Urban Planning
   - `r fa("map-marker")` 37.21, -121.85
+  
+#### `r fa("server", color= "green")` **Justin Singh-Mohudpur** [repo](https://github.com/program--/geog176a) --- [webpage](https://geog176a.justinsingh.me/)
+
+  - `r fa("user")` Fourth Year Mathematics Major
+  - `r fa("university")` Cryptography
+  - `r fa("map-marker")` 38.27, -121.95
 <br>
