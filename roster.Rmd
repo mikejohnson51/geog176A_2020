@@ -28,5 +28,10 @@ library(icon)
   - `r fa("user")` Second Year Econ and Statistics and Data Science Majors
   - `r fa("university")` Econometrics
   - `r fa("map-marker")` 37.46, -122.24
+
+#### `r fa("hand-peace", color = "blue")` **Matthew Coleman** [repo](https://github.com/matthewbcoleman) --- [webpage](https://matthewbcoleman.github.io/)
+  - `r fa("user")` Fourth Year Statistics and Data Science
+  - `r fa("university")` Health
+  - `r fa("map-marker")` 34.41, -119.86
   
 <br>
