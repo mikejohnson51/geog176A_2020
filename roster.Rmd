@@ -34,4 +34,9 @@ library(icon)
   - `r fa("university")` Health
   - `r fa("map-marker")` 34.41, -119.86
   
+#### `r fa("train", color = "grey")` **Terrance Hwang** [repo](https://github.com/TerranceHwang/geog176a-lab01) --- [webpage](https://terrancehwang.github.io/geog176a-lab01/)
+
+  - `r fa("user")` Fourth Year Geography Major
+  - `r fa("university")` Urban Planning
+  - `r fa("map-marker")` 37.21, -121.85
 <br>
