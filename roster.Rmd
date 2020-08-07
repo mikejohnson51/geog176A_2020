@@ -46,3 +46,13 @@ library(icon)
   - `r fa("university")` Cryptography
   - `r fa("map-marker")` 38.27, -121.95
 <br>
+
+#### `r fa("tree", color = "green")` **Emily Wapman** [repo](https://github.com/ewapman/ewapman.github.io) --- [webpage](https://ewapman.github.io)
+  - `r fa("user")` Third Year, Biology
+  - `r fa("university")` Ecology 
+  - `r fa("map-marker")` 37.68, 121.77
+
+
+
+
+
