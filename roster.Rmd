@@ -62,4 +62,7 @@ library(icon)
   - `r fa("university")` Environmental Studies 
   - `r fa("map-marker")` 34.4140, -119.8489
 
-
+#### `r fa("balance-scale", color = "blue")` **Chi Zhang** [repo](https://github.com/NeedCola/NeedCola.github.io) ---[webpage](https://needcola.github.io/)
+  - `r fa("user")` Third Year, Geography Major
+  - `r fa("university")` Oceanography
+  - `r fa("map-marker")` 32.90, 115.82
