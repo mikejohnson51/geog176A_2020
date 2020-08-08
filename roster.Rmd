@@ -57,6 +57,9 @@ library(icon)
   - `r fa("university")` Biogeochemistry
   - `r fa("map-marker")` 34.41, 119.86
 
-
+#### `r fa("anchor", color = "red")` **Aine Roonan** [repo](https://github.com/aineroonan/aineroonan.github.io) --- [webpage](https://aineroonan.github.io)
+  - `r fa("user")` Fourth Year, Political Science
+  - `r fa("university")` Environmental Studies 
+  - `r fa("map-marker")` 34.4140, -119.8489
 
 
