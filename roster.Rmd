@@ -53,7 +53,7 @@ library(icon)
   - `r fa("map-marker")` 37.68, 121.77
 
 
-#### `r fa("anchor", color = "red")` **Aine Roonan** [repo](https://github.com/aineroonan/aineroonan.github.io) --- [webpage](file:///Users/Aine/github/aineroonan.github.io/index.html)
+#### `r fa("anchor", color = "red")` **Aine Roonan** [repo](https://github.com/aineroonan/aineroonan.github.io) --- [webpage](https://aineroonan.github.io)
   - `r fa("user")` Fourth Year, Political Science
   - `r fa("university")` Environmental Studies 
   - `r fa("map-marker")` 34.4140, -119.8489
