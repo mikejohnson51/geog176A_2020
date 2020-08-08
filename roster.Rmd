@@ -52,6 +52,10 @@ library(icon)
   - `r fa("university")` Ecology 
   - `r fa("map-marker")` 37.68, 121.77
 
+#### `r fa("anchor", color = "grey")` **Wesley Noble** [repo](https://github.com/Wes-Noble/Wes-Noble.github.io) --- [webpage](wes-noble.github.io/)
+  - `r fa("user")` Fourth Year Physical Geography w/ Ocean Science Emphasis & Environmental Studies major
+  - `r fa("university")` Biogeochemistry
+  - `r fa("map-marker")` 34.41, 119.86
 
 
 
