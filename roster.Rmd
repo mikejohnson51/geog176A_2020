@@ -66,3 +66,8 @@ library(icon)
   - `r fa("user")` Third Year, Geography Major
   - `r fa("university")` Oceanography
   - `r fa("map-marker")` 32.90, 115.82
+  
+#### `r fa("hand-spock", color = "red")` **Mika Leslie** [repo](https://github.com/mikaleslie/mikaleslie.github.io) ---[webpage](https://mikaleslie.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies Major
+  - `r fa("university")` Sustainability
+  - `r fa("map-marker")` -35.34, 149.08
