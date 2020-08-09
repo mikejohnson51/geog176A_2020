@@ -71,3 +71,8 @@ library("icon")
   - `r fa("user")`Fourth Year, Environmental Studies, Emphasis in Geography 
   - `r fa("university")` Water Resource Management
   - `r fa("map-marker")` 34.40956615, -119.86271152508787
+
+#### `r fa("sun", color = "maroon")` **Kiki Takeuchi** [repo](https://github.com/ktakeuchi2/ktakeuchi2.github.io) --- [webpage](https://ktakeuchi2.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies B.S.
+  - `r fa("university")` Coral Reefs
+  - `r fa("map-marker")` 37.89, -122.03
