@@ -119,3 +119,9 @@ library(icon)
   - `r fa("user")` Fourth Year, Geography
   - `r fa("university")` Human Geography and Food Systems
   - `r fa("map-marker")` 33.1347, -117.072
+
+#### `r fa("space-shuttle", color = "gray")` **Barush Martinez** [repo](https://github.com/Barush44/github.io) --- [webpage](https://barush44.github.io/github.io/)
+  - `r fa("user")` Fourth Year, Geography B.S.
+  - `r fa("university")` Oceanography 
+  - `r fa("map-marker")` 32.77, -117.07
+
