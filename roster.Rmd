@@ -119,3 +119,8 @@ library(icon)
   - `r fa("user")` Fourth Year, Geography B.S.
   - `r fa("university")` Oceanography 
   - `r fa("map-marker")` 32.77, -117.07
+  
+#### `r fa("fish", color = "teal")` **Kyler Plouffe** [repo](https://github.com/kplouffe/kplouffe) --- [webpage](https://kplouffe.github.io/kplouffe/)
+  - `r fa("user")` Fourth Year, Aquatic Biology
+  - `r fa("university")` Aquaculture
+  - `r fa("map-marker")` 34.412968, -119.865065
