@@ -23,6 +23,8 @@ library(icon)
   - `r fa("user")` Teaching Assistant
   - `r fa("university")` 
   - `r fa("map-marker")` 35.9, 127.7
+  
+*****
 
 #### `r fa("space-shuttle", color = "green")` **Tyler Chia** [repo](https://github.com/TylerChia/TylerChia) --- [webpage](https://tylerchia.github.io/TylerChia/)
 
