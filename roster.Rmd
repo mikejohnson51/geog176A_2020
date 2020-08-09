@@ -114,6 +114,11 @@ library(icon)
   - `r fa("user")` Third year, Geography major 
   - `r fa("university")` Poverty & inequality 
   - `r fa("map-marker")` 34.4130, -119.8660 
+  
+#### `r fa("heart", color = "pink")` **Leslie Alonzo** [repo](https://github.com/LeslieAlonzo98/LeslieAlonzo98.github.io) --- [webpage](https://LeslieAlonzo98.github.io/)
+  - `r fa("user")` Fourth Year, Geography
+  - `r fa("university")` Human Geography and Food Systems
+  - `r fa("map-marker")` 33.1347, -117.072
 
 #### `r fa("space-shuttle", color = "gray")` **Barush Martinez** [repo](https://github.com/Barush44/github.io) --- [webpage](https://barush44.github.io/github.io/)
   - `r fa("user")` Fourth Year, Geography B.S.
@@ -124,3 +129,4 @@ library(icon)
   - `r fa("user")` Fourth Year, Aquatic Biology
   - `r fa("university")` Aquaculture
   - `r fa("map-marker")` 34.412968, -119.865065
+
