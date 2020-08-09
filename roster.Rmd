@@ -1,3 +1,4 @@
+
 ---
 title: "&nbsp;"
 ---
@@ -52,7 +53,7 @@ library(icon)
   - `r fa("university")` Ecology 
   - `r fa("map-marker")` 37.68, 121.77
 
-#### `r fa("anchor", color = "grey")` **Wesley Noble** [repo](https://github.com/Wes-Noble/Wes-Noble.github.io) --- [webpage](https://wes-noble.github.io/)
+#### `r fa("anchor", color = "grey")` **Wesley Noble** [repo](https://github.com/Wes-Noble/Wes-Noble.github.io) --- [webpage](wes-noble.github.io/)
   - `r fa("user")` Fourth Year Physical Geography w/ Ocean Science Emphasis & Environmental Studies major
   - `r fa("university")` Biogeochemistry
   - `r fa("map-marker")` 34.41, 119.86
@@ -62,4 +63,22 @@ library(icon)
   - `r fa("university")` Environmental Studies 
   - `r fa("map-marker")` 34.4140, -119.8489
 
+#### `r fa("balance-scale", color = "blue")` **Chi Zhang** [repo](https://github.com/NeedCola/NeedCola.github.io) ---[webpage](https://needcola.github.io/)
+  - `r fa("user")` Third Year, Geography Major
+  - `r fa("university")` Oceanography
+  - `r fa("map-marker")` 32.90, 115.82
+  
+#### `r fa("hand-spock", color = "red")` **Mika Leslie** [repo](https://github.com/mikaleslie/mikaleslie.github.io) ---[webpage](https://mikaleslie.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies Major
+  - `r fa("university")` Sustainability
+  - `r fa("map-marker")` -35.34, 149.08
 
+#### `r fa("hand-peace", color = "teal")` **Meagan Brown** [repo](https://github.com/meaganbrown/meaganbrown.github.io) ---[webpage](https://meaganbrown.github.io/)
+  - `r fa("user")`Fourth Year, Environmental Studies, Emphasis in Geography 
+  - `r fa("university")` Water Resource Management
+  - `r fa("map-marker")` 34.40956615, -119.86271152508787
+
+#### `r fa("sun", color = "maroon")` **Kiki Takeuchi** [repo](https://github.com/ktakeuchi2/ktakeuchi2.github.io) --- [webpage](https://ktakeuchi2.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies B.S.
+  - `r fa("university")` Coral Reefs
+  - `r fa("map-marker")` 37.89, -122.03
