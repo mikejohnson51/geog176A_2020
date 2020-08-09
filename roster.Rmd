@@ -95,7 +95,7 @@ library(icon)
   - `r fa("university")` Geographic Information Systems
   - `r fa("map-marker")` 35.03, -120.49
 
-#### `r fa("globe", color = "blue)` **Kaitlyn Fu** [repo](https://github.com/kaitlynf/kaitlynf.github.io) --- [webpage](https://kaitlynf.github.io)
+#### `r fa("globe", color = "blue")` **Kaitlyn Fu** [repo](https://github.com/kaitlynf/kaitlynf.github.io) --- [webpage](https://kaitlynf.github.io)
   - `r fa("user")` Fourth Year, Global Studies and Geography 
   - `r fa("university")` Urban Planning
   - `r fa("map-marker")` 37.33, -121.89
