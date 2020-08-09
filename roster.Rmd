@@ -85,7 +85,7 @@ library(icon)
   - `r fa("university")` Coral Reefs
   - `r fa("map-marker")` 37.89, -122.03
   
-#### `r fa("space-shuttle", color = "teal")` **Johann Ayala-Vargas** [repo](https://github.com/Johannayala-vargas/Johannayala-vargas.io) --- [webpage](file:///Users/Allan/github/Johannayala-vargas/index.html)
+#### `r fa("space-shuttle", color = "teal")` **Johann Ayala-Vargas** [repo](https://github.com/Johannayala-vargas/Johannayala-vargas.io) --- [webpage](http://Johannayala-vargas.github.io)
   - `r fa("user")` Fourth Year, Physical Geography B.S.
   - `r fa("university")` Geographic Information Systems
   - `r fa("map-marker")` 35.03, -120.49
