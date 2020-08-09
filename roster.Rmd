@@ -104,3 +104,8 @@ library(icon)
   - `r fa("user")` Fourth Year, Geography
   - `r fa("university")` Geographical Information Systems
   - `r fa("map-marker")` 33.81, -117.81
+  
+#### `r fa("frog", color = "pink")` **Xuefei Gao** [repo](https://github.com/XuefeiG/XuefeiG.github.io) --- [webpage](https://XuefeiG.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies
+  - `r fa("university")` Botany
+  - `r fa("map-marker")` 39.9042, 116.4074
