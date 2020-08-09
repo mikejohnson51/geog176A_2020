@@ -5,7 +5,7 @@ title: "&nbsp;"
 <br><br>
 
 ```{r, echo = FALSE}
-library(icon)
+library("icon")
 ```
 
 #### `r fa("globe", color = "green")` **Mike Johnson** [repo](https://github.com/mikejohnson51/mikejohnson51.github.io) --- [webpage](http://mikejohnson51.github.io)
@@ -71,3 +71,14 @@ library(icon)
   - `r fa("user")` Fourth Year, Environmental Studies Major
   - `r fa("university")` Sustainability
   - `r fa("map-marker")` -35.34, 149.08
+
+#### `r fa("hand-peace", color = "teal")` **Meagan Brown** [repo](https://github.com/meaganbrown/meaganbrown.github.io) ---[webpage](https://meaganbrown.github.io/)
+  - `r fa("user")`Fourth Year, Environmental Studies, Emphasis in Geography 
+  - `r fa("university")` Water Resource Management
+  - `r fa("map-marker")` 34.40956615, -119.86271152508787
+
+#### `r fa("sun", color = "maroon")` **Kiki Takeuchi** [repo](https://github.com/ktakeuchi2/ktakeuchi2.github.io) --- [webpage](https://ktakeuchi2.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies B.S.
+  - `r fa("university")` Coral Reefs
+  - `r fa("map-marker")` 37.89, -122.03
+
