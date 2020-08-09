@@ -69,7 +69,12 @@ library(icon)
   - `r fa("user")` Third Year, Geography Major
   - `r fa("university")` Oceanography
   - `r fa("map-marker")` 32.90, 115.82
-  
+
+#### `r fa("paper-plane", color = "black")` **Catherine Rauch** [repo](https://github.com/catherinerauch/catherinerauch.github.io) ---[webpage](https://catherinerauch.github.io/)
+  - `r fa("user")` Fourth Year, Statistics and Data Science
+  - `r fa("university")` Interrupted Time Series
+  - `r fa("map-marker")` 37.87, -122.46
+
 #### `r fa("hand-spock", color = "red")` **Mika Leslie** [repo](https://github.com/mikaleslie/mikaleslie.github.io) ---[webpage](https://mikaleslie.github.io/)
   - `r fa("user")` Fourth Year, Environmental Studies Major
   - `r fa("university")` Sustainability
@@ -89,3 +94,4 @@ library(icon)
   - `r fa("user")` Fourth Year, Physical Geography B.S.
   - `r fa("university")` Geographic Information Systems
   - `r fa("map-marker")` 35.03, -120.49
+
