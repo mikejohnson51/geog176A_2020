@@ -114,3 +114,8 @@ library(icon)
   - `r fa("user")` Third year, Geography major 
   - `r fa("university")` Poverty & inequality 
   - `r fa("map-marker")` 34.4130, -119.8660 
+  
+#### `r fa("heart", color = "pink")` **Leslie Alonzo** [repo](https://github.com/LeslieAlonzo98/LeslieAlonzo98.github.io) --- [webpage](https://LeslieAlonzo98.github.io/)
+  - `r fa("user")` Fourth Year, Geography
+  - `r fa("university")` Human Geography and Food Systems
+  - `r fa("map-marker")` 33.1347, -117.072
