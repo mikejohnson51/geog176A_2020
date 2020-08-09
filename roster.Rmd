@@ -66,3 +66,8 @@ library(icon)
   - `r fa("user")` Third Year, Geography Major
   - `r fa("university")` Oceanography
   - `r fa("map-marker")` 32.90, 115.82
+  
+#### `r fa("paper-plane", color = "black")` **Catherine Rauch** [repo](https://github.com/catherinerauch/catherinerauch.github.io) ---[webpage](https://catherinerauch.github.io/)
+  - `r fa("user")` Fourth Year, Statistics and Data Science
+  - `r fa("university")` Interrupted Time Series
+  - `r fa("map-marker")` 37.87, -122.46
