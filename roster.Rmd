@@ -109,3 +109,8 @@ library(icon)
   - `r fa("user")` Fourth Year, Environmental Studies
   - `r fa("university")` Botany
   - `r fa("map-marker")` 39.9042, 116.4074
+  
+#### `r fa("tree", color = "blue")` **Jovany Cota** [repo](https://github.com/jovanycota/-jovanycota-.github.io)---[website](https://jovanycota.github.io/-jovanycota-.github.io/)
+  - `r fa("user")` Third year, Geography major 
+  - `r fa("university")` Poverty & inequality 
+  - `r fa("map-marker")` 34.4130, -119.8660 
