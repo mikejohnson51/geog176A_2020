@@ -156,3 +156,8 @@ library(icon)
   - `r fa("user")` Fourth Year, Geography B.A.
   - `r fa("university")` Gographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
+  
+#### `r fa("anchor", color = "blue")` **Jacob Braslaw** [repo](https://github.com/jacobbraslaw/jacobbraslaw.github.io) --- [webpage](https://jacobbraslaw.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies B.S.
+  - `r fa("university")` Renewable Energy
+  - `r fa("map-marker")` 34.41, -119.84
