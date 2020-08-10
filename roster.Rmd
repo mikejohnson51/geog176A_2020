@@ -135,4 +135,7 @@ library(icon)
   - `r fa("university")` Aquaculture
   - `r fa("map-marker")` 34.412968, -119.865065
 
-
+#### `r fa("superpowers", color = "darkorange1")` **Nate Edgar** [repo](https://github.com/Nateedgar97/Nateedgar97.github.io) --- [webpage](https://nateedgar97.github.io/)
+  - `r fa("user")` Third Year, Geography With GIS Emphisis
+  - `r fa("university")` Geography
+  - `r fa("map-marker")` 34.1478 N, 118.1445 W
