@@ -110,3 +110,29 @@ library(icon)
   - `r fa("university")` Economic Geography
   - `r fa("map-marker")` 39.90, 116.41
 
+#### `r fa("frog", color = "pink")` **Xuefei Gao** [repo](https://github.com/XuefeiG/XuefeiG.github.io) --- [webpage](https://XuefeiG.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies
+  - `r fa("university")` Botany
+  - `r fa("map-marker")` 39.9042, 116.4074
+  
+#### `r fa("tree", color = "blue")` **Jovany Cota** [repo](https://github.com/jovanycota/-jovanycota-.github.io)---[website](https://jovanycota.github.io/-jovanycota-.github.io/)
+  - `r fa("user")` Third year, Geography major 
+  - `r fa("university")` Poverty & inequality 
+  - `r fa("map-marker")` 34.4130, -119.8660 
+  
+#### `r fa("heart", color = "pink")` **Leslie Alonzo** [repo](https://github.com/LeslieAlonzo98/LeslieAlonzo98) --- [webpage](https://lesliealonzo98.github.io/LeslieAlonzo98/)
+  - `r fa("user")` Fourth Year, Geography
+  - `r fa("university")` Human Geography and Food Systems
+  - `r fa("map-marker")` 33.1347, -117.072
+
+#### `r fa("space-shuttle", color = "gray")` **Barush Martinez** [repo](https://github.com/Barush44/github.io) --- [webpage](https://barush44.github.io/github.io/)
+  - `r fa("user")` Fourth Year, Geography B.S.
+  - `r fa("university")` Oceanography 
+  - `r fa("map-marker")` 32.77, -117.07
+  
+#### `r fa("fish", color = "teal")` **Kyler Plouffe** [repo](https://github.com/kplouffe/kplouffe) --- [webpage](https://kplouffe.github.io/kplouffe/)
+  - `r fa("user")` Fourth Year, Aquatic Biology
+  - `r fa("university")` Aquaculture
+  - `r fa("map-marker")` 34.412968, -119.865065
+
+
