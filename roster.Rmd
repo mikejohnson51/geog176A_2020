@@ -156,3 +156,9 @@ library(icon)
   - `r fa("user")` Fourth Year, Geography B.A.
   - `r fa("university")` Gographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
+
+#### `r fa("wine-glass-alt", color = "green")` **Tianle Lin** [repo](https://github.com/Tianle7777/Tianle_Lin) --- [webpage](https://tianle7777.github.io/Tianle_Lin/index.html)
+  - `r fa("user")` Third Year, GIS
+  - `r fa("university")` Geographical Information System 
+  - `r fa("map-marker")` 34.2617 N, 1195049 W
+
