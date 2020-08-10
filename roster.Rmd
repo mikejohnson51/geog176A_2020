@@ -144,6 +144,11 @@ library(icon)
   - `r fa("user")` Fourth Year, Aquatic Biology
   - `r fa("university")` Aquaculture
   - `r fa("map-marker")` 34.412968, -119.865065
+  
+#### `r fa("space-shuttle", color = "red")` **Conor Dunn** [repo](https://github.com/conor-dunn/Conor-Dunn) --- [webpage](https://conor-dunn.github.io/Conor-Dunn/)
+  - `r fa("user")` Third Year, Geography
+  - `r fa("university")` Human Geography
+  - `r fa("map-marker")` 33.4484, 112.0740
 
 #### `r fa("superpowers", color = "darkorange1")` **Nate Edgar** [repo](https://github.com/Nateedgar97/Nateedgar97.github.io) --- [webpage](https://nateedgar97.github.io/)
   - `r fa("user")` Third Year, Geography With GIS Emphisis
