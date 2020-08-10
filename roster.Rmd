@@ -37,7 +37,7 @@ library(icon)
   - `r fa("university")` Health
   - `r fa("map-marker")` 34.41, -119.86
   
-#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](hopewilcox.github.io)
+#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](https://hopewilcox.github.io)
 
   - `r fa("user")` Recent Graduate, Physical Geography
   - `r fa("university")` Remote Sensing
