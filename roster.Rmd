@@ -164,3 +164,8 @@ library(icon)
   - `r fa("user")` Third Year, GIS
   - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.2617 N, 1195049 W
+
+#### `r fa("arrows-alt", color = "blue")` **Xingxin Li** [repo](https://github.com/ousdon/geog176a-lab1) --- [webpage](https://ousdon.github.io/geog176a-lab1/index.html)
+  - `r fa("user")` 4th Year, Geography GIS (B.A.)
+  - `r fa("university")` Geography Information System 
+  - `r fa("map-marker")` 34.010010, -117.910094
