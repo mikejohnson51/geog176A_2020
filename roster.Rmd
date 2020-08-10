@@ -165,7 +165,14 @@ library(icon)
   - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.2617 N, 1195049 W
 
+
 #### `r fa("arrows-alt", color = "blue")` **Xingxin Li** [repo](https://github.com/ousdon/geog176a-lab1) --- [webpage](https://ousdon.github.io/geog176a-lab1/index.html)
   - `r fa("user")` 4th Year, Geography GIS (B.A.)
   - `r fa("university")` Geography Information System 
   - `r fa("map-marker")` 34.010010, -117.910094
+
+#### `r fa("helicopter", color = "blue")` **Ian Hinds** [repo](https://github.com/Hindstein/GEOG176A) --- [webpage](https://hindstein.github.io/GEOG176A/)
+  - `r fa("user")` 3rd Year, Physical Geography (B.S.)
+  - `r fa("university")` Geo-Engineering
+  - `r fa("map-marker")` 35.9550, -83.9290
+
