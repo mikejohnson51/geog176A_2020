@@ -105,6 +105,11 @@ library(icon)
   - `r fa("university")` Geographical Information Systems
   - `r fa("map-marker")` 33.81, -117.81
   
+#### `r fa("heartbeat", color = "red")` **Yan Wang** [repo](https://github.com/Vialawaila/Vialawaila.github.io) --- [webpage](http://Vialawaila.github.io/index.html)
+  - `r fa("user")` Second Year, Economics and Geography with GIS Emphasis
+  - `r fa("university")` Economic Geography
+  - `r fa("map-marker")` 39.90, 116.41
+
 #### `r fa("frog", color = "pink")` **Xuefei Gao** [repo](https://github.com/XuefeiG/XuefeiG.github.io) --- [webpage](https://XuefeiG.github.io/)
   - `r fa("user")` Fourth Year, Environmental Studies
   - `r fa("university")` Botany
@@ -115,7 +120,7 @@ library(icon)
   - `r fa("university")` Poverty & inequality 
   - `r fa("map-marker")` 34.4130, -119.8660 
   
-#### `r fa("heart", color = "pink")` **Leslie Alonzo** [repo](https://github.com/LeslieAlonzo98/LeslieAlonzo98.github.io) --- [webpage](https://LeslieAlonzo98.github.io/)
+#### `r fa("heart", color = "pink")` **Leslie Alonzo** [repo](https://github.com/LeslieAlonzo98/LeslieAlonzo98) --- [webpage](https://lesliealonzo98.github.io/LeslieAlonzo98/)
   - `r fa("user")` Fourth Year, Geography
   - `r fa("university")` Human Geography and Food Systems
   - `r fa("map-marker")` 33.1347, -117.072
