@@ -175,4 +175,9 @@ library(icon)
   - `r fa("user")` 3rd Year, Physical Geography (B.S.)
   - `r fa("university")` Geo-Engineering
   - `r fa("map-marker")` 35.9550, -83.9290
+  
+#### `r fa("hand-peace", color = "teal")` **Shannon Sweeney** [repo](https://github.com/Shannonfsweeney/geog176A2020) --- [webpage](https://shannonfsweeney.github.io/geog176A2020/)
+  - `r fa("user")` 3rd Year, Environmental Studies B.A.
+  - `r fa("university")` Environmental Justice
+  - `r fa("map-marker")` 34.4133, -119.8610
 
