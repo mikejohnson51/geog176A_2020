@@ -1,7 +1,7 @@
-
 ---
 title: "&nbsp;"
 ---
+
 
 <br><br>
 
@@ -144,6 +144,11 @@ library(icon)
   - `r fa("user")` Fourth Year, Aquatic Biology
   - `r fa("university")` Aquaculture
   - `r fa("map-marker")` 34.412968, -119.865065
+  
+#### `r fa("space-shuttle", color = "red")` **Conor Dunn** [repo](https://github.com/conor-dunn/Conor-Dunn) --- [webpage](https://conor-dunn.github.io/Conor-Dunn/)
+  - `r fa("user")` Third Year, Geography
+  - `r fa("university")` Human Geography
+  - `r fa("map-marker")` 33.4484, 112.0740
 
 #### `r fa("superpowers", color = "darkorange1")` **Nate Edgar** [repo](https://github.com/Nateedgar97/Nateedgar97.github.io) --- [webpage](https://nateedgar97.github.io/)
   - `r fa("user")` Third Year, Geography With GIS Emphisis
@@ -152,8 +157,14 @@ library(icon)
 
 #### `r fa("sun", color = "purple")` **Chelsey Su** [repo](https://github.com/suchaoxi/geog176a_2020) --- [webpage](https://suchaoxi.github.io/geog176a_2020/)
   - `r fa("user")` Fourth Year, Geography B.A.
-  - `r fa("university")` Gographical Information System 
+  - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
+
+
+#### `r fa("sun", color = "orange")` **Stephanie Hurtado** [repo](https://github.com/shurtadogonzalez/shurtadogonzalez.github.io) --- [webpage](https://shurtadogonzalez.github.io/geog176A-lab01/)
+  - `r fa("user")` Recent Graduate, Environmental Studies 
+  - `r fa("university")` Remote Sensing 
+  - `r fa("map-marker")` 34.9530, -120.4357
 
 #### `r fa("anchor", color = "blue")` **Jacob Braslaw** [repo](https://github.com/jacobbraslaw/jacobbraslaw.github.io) --- [webpage](https://jacobbraslaw.github.io/)
   - `r fa("user")` Fourth Year, Environmental Studies B.S.
@@ -164,7 +175,6 @@ library(icon)
   - `r fa("user")` Third Year, GIS
   - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.2617 N, 1195049 W
-
 
 #### `r fa("arrows-alt", color = "blue")` **Xingxin Li** [repo](https://github.com/ousdon/geog176a-lab1) --- [webpage](https://ousdon.github.io/geog176a-lab1/index.html)
   - `r fa("user")` 4th Year, Geography GIS (B.A.)
@@ -180,3 +190,24 @@ library(icon)
   - `r fa("user")` Fourth Year Geography B.A.
   - `r fa("university")` Urban Development
   - `r fa("map-marker")` 34.41, -119.86
+
+#### `r fa("hand-peace", color = "teal")` **Shannon Sweeney** [repo](https://github.com/Shannonfsweeney/geog176A2020) --- [webpage](https://shannonfsweeney.github.io/geog176A2020/)
+  - `r fa("user")` 3rd Year, Environmental Studies B.A.
+  - `r fa("university")` Environmental Justice
+  - `r fa("map-marker")` 34.4133, -119.8610
+
+#### `r fa("birthday-cake", color = "pink")`**Mikhail Prokhorov** [repo](https://github.com/mikhailprokhorov/mikhailprokhorov) --- [webpage](https://mikhailprokhorov.github.io/mikhailprokhorov)
+  - `r fa("user")` 4th Year, Philosophy (B.A.), Geography(B.A.), Film and Media Studies (B.A.)
+  - `r fa("university")` Sports Analytics
+  - `r fa("map-marker")` 34.18, -118.94
+  
+#### `r fa("leaf", color = "teal")` **Angus Watters** [repo](https://github.com/anguswg-ucsb/anguswg-ucsb.github.io) --- [webpage](https://anguswg-ucsb.github.io/)
+  - `r fa("user")` Fourth Year, Geography (GIS)
+  - `r fa("university")` Water Supply and Demand
+  - `r fa("map-marker")` 34.42, -119.69
+  
+#### `r fa("paper-plane", color = "blue")` **ZhongchangYao** [repo](https://github.com/ZhongchangYao/ZhongchangYao.git) --- [webpage](https://zhongchangyao.github.io/ZhongchangYao/)
+  - `r fa("user")` 3rd Year, Geography(GIS)
+  - `r fa("university")` Cartography
+  - `r fa("map-marker")` 34.41, -119.85
+
