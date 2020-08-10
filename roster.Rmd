@@ -162,3 +162,7 @@ library(icon)
   - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.2617 N, 1195049 W
 
+#### `r fa("helicopter", color = "blue")` **Ian Hinds** [repo](https://github.com/Hindstein/geog176_A_2020) --- [webpage]()
+  - `r fa("user")` 3rd Year, Physical Geography (B.S.)
+  - `r fa("university")` Geo-Engineering
+  - `r fa("map-marker")` 35.9550, -83.9290
