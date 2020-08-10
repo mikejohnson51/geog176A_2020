@@ -1,6 +1,6 @@
 
 ---
-title: "&nbsp;"
+title: '&nbsp;'
 ---
 
 <br><br>
@@ -175,4 +175,10 @@ library(icon)
   - `r fa("user")` 3rd Year, Physical Geography (B.S.)
   - `r fa("university")` Geo-Engineering
   - `r fa("map-marker")` 35.9550, -83.9290
+
+
+#### `r fa("user-graduate", color = "gray")` **Zijie Wang** [repo](https://github.com/zijie67/Zijie-Wang.git) --- [webpage](https://zijie67.github.io/Zijie_Wang/index.html)
+  - `r fa("user")` Fourth Year, Geography B.S.
+  - `r fa("university")` area of research 
+  - `r fa("map-marker")` 34.43, -119.88
 
