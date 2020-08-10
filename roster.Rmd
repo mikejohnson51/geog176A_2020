@@ -152,8 +152,14 @@ library(icon)
 
 #### `r fa("sun", color = "purple")` **Chelsey Su** [repo](https://github.com/suchaoxi/geog176a_2020) --- [webpage](https://suchaoxi.github.io/geog176a_2020/)
   - `r fa("user")` Fourth Year, Geography B.A.
-  - `r fa("university")` Gographical Information System 
+  - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
+
+
+#### `r fa("sun", color = "orange")` **Stephanie Hurtado** [repo](https://github.com/shurtadogonzalez/shurtadogonzalez.github.io) --- [webpage](https://shurtadogonzalez.github.io/geog176A-lab01/)
+  - `r fa("user")` Recent Graduate, Environmental Studies 
+  - `r fa("university")` Remote Sensing 
+  - `r fa("map-marker")` 34.9530, -120.4357
 
 #### `r fa("anchor", color = "blue")` **Jacob Braslaw** [repo](https://github.com/jacobbraslaw/jacobbraslaw.github.io) --- [webpage](https://jacobbraslaw.github.io/)
   - `r fa("user")` Fourth Year, Environmental Studies B.S.
@@ -164,7 +170,6 @@ library(icon)
   - `r fa("user")` Third Year, GIS
   - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.2617 N, 1195049 W
-
 
 #### `r fa("arrows-alt", color = "blue")` **Xingxin Li** [repo](https://github.com/ousdon/geog176a-lab1) --- [webpage](https://ousdon.github.io/geog176a-lab1/index.html)
   - `r fa("user")` 4th Year, Geography GIS (B.A.)
