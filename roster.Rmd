@@ -196,3 +196,7 @@ library(icon)
   - `r fa("university")` Water Supply and Demand
   - `r fa("map-marker")` 34.42, -119.69
   
+#### `r fa("paper-plane", color = "blue")` **ZhongchangYao** [repo](https://github.com/ZhongchangYao/ZhongchangYao.git) --- [webpage](https://zhongchangyao.github.io/ZhongchangYao/)
+  - `r fa("user")` 3rd Year, Geography(GIS)
+  - `r fa("university")` Cartography
+  - `r fa("map-marker")` 34.41, -119.85
