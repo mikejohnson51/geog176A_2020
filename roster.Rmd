@@ -37,7 +37,7 @@ library(icon)
   - `r fa("university")` Health
   - `r fa("map-marker")` 34.41, -119.86
   
-#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](hopewilcox.github.io)
+#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](https://hopewilcox.github.io)
 
   - `r fa("user")` Recent Graduate, Physical Geography
   - `r fa("university")` Remote Sensing
@@ -54,8 +54,6 @@ library(icon)
   - `r fa("user")` Fourth Year Mathematics Major
   - `r fa("university")` Cryptography
   - `r fa("map-marker")` 38.27, -121.95
-  
-<br>
 
 #### `r fa("tree", color = "green")` **Emily Wapman** [repo](https://github.com/ewapman/ewapman.github.io) --- [webpage](https://ewapman.github.io)
   - `r fa("user")` Third Year, Biology
@@ -101,6 +99,11 @@ library(icon)
   - `r fa("user")` Fourth Year, Physical Geography B.S.
   - `r fa("university")` Geographic Information Systems
   - `r fa("map-marker")` 35.03, -120.49
+
+#### `r fa("microscope", color = "Turquoise")` **Abigail M Porter** [repo](https://github.com/UCSBaporter/UCSBaporterW1.git) --- [webpage](https://ucsbaporter.github.io/UCSBaporterW1/first-webpage/)
+  - `r fa("user")` 4th year, Biological Anthropology 
+  - `r fa("university")` Biological Archaeology, Bioarchaeology
+  - `r fa("map-marker")` 37.7749, -122.4194
 
 #### `r fa("globe", color = "blue")` **Kaitlyn Fu** [repo](https://github.com/kaitlynf/kaitlynf.github.io) --- [webpage](https://kaitlynf.github.io)
   - `r fa("user")` Fourth Year, Global Studies and Geography 
@@ -152,7 +155,38 @@ library(icon)
   - `r fa("university")` Geographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
 
+
 #### `r fa("sun", color = "orange")` **Stephanie Hurtado** [repo](https://github.com/shurtadogonzalez/shurtadogonzalez.github.io) --- [webpage](https://shurtadogonzalez.github.io/geog176A-lab01/)
   - `r fa("user")` Recent Graduate, Environmental Studies 
   - `r fa("university")` Remote Sensing 
   - `r fa("map-marker")` 34.9530, -120.4357
+
+#### `r fa("anchor", color = "blue")` **Jacob Braslaw** [repo](https://github.com/jacobbraslaw/jacobbraslaw.github.io) --- [webpage](https://jacobbraslaw.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies B.S.
+  - `r fa("university")` Renewable Energy
+  - `r fa("map-marker")` 34.41, -119.84
+
+#### `r fa("wine-glass-alt", color = "green")` **Tianle Lin** [repo](https://github.com/Tianle7777/Tianle_Lin) --- [webpage](https://tianle7777.github.io/Tianle_Lin/index.html)
+  - `r fa("user")` Third Year, GIS
+  - `r fa("university")` Geographical Information System 
+  - `r fa("map-marker")` 34.2617 N, 1195049 W
+
+#### `r fa("arrows-alt", color = "blue")` **Xingxin Li** [repo](https://github.com/ousdon/geog176a-lab1) --- [webpage](https://ousdon.github.io/geog176a-lab1/index.html)
+  - `r fa("user")` 4th Year, Geography GIS (B.A.)
+  - `r fa("university")` Geography Information System 
+  - `r fa("map-marker")` 34.010010, -117.910094
+
+#### `r fa("helicopter", color = "blue")` **Ian Hinds** [repo](https://github.com/Hindstein/GEOG176A) --- [webpage](https://hindstein.github.io/GEOG176A/)
+  - `r fa("user")` 3rd Year, Physical Geography (B.S.)
+  - `r fa("university")` Geo-Engineering
+  - `r fa("map-marker")` 35.9550, -83.9290
+  
+#### `r fa("hand-peace", color = "teal")` **Shannon Sweeney** [repo](https://github.com/Shannonfsweeney/geog176A2020) --- [webpage](https://shannonfsweeney.github.io/geog176A2020/)
+  - `r fa("user")` 3rd Year, Environmental Studies B.A.
+  - `r fa("university")` Environmental Justice
+  - `r fa("map-marker")` 34.4133, -119.8610
+
+#### `r fa("birthday-cake", color = "pink")`**Mikhail Prokhorov** [repo](https://github.com/mikhailprokhorov/mikhailprokhorov) --- [webpage](https://mikhailprokhorov.github.io/mikhailprokhorov)
+  - `r fa("user")` 4th Year, Philosophy (B.A.), Geography(B.A.), Film and Media Studies (B.A.)
+  - `r fa("university")` Sports Analytics
+  - `r fa("map-marker")` 34.18, -118.94
