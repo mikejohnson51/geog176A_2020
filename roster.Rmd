@@ -37,6 +37,12 @@ library(icon)
   - `r fa("university")` Health
   - `r fa("map-marker")` 34.41, -119.86
   
+#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](hopewilcox.github.io)
+
+  - `r fa("user")` Recent Graduate, Physical Geography
+  - `r fa("university")` Remote Sensing
+  - `r fa("map-marker")` 34.61, -120.19
+
 #### `r fa("train", color = "grey")` **Terrance Hwang** [repo](https://github.com/TerranceHwang/geog176a-lab01) --- [webpage](https://terrancehwang.github.io/geog176a-lab01/)
 
   - `r fa("user")` Fourth Year Geography Major
@@ -48,6 +54,7 @@ library(icon)
   - `r fa("user")` Fourth Year Mathematics Major
   - `r fa("university")` Cryptography
   - `r fa("map-marker")` 38.27, -121.95
+  
 <br>
 
 #### `r fa("tree", color = "green")` **Emily Wapman** [repo](https://github.com/ewapman/ewapman.github.io) --- [webpage](https://ewapman.github.io)
