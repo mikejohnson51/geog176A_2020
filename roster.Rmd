@@ -102,6 +102,11 @@ library(icon)
   - `r fa("university")` Geographic Information Systems
   - `r fa("map-marker")` 35.03, -120.49
 
+#### `r fa("microscope", color = "Turquoise")` **Abigail M Porter** [repo](https://github.com/UCSBaporter/UCSBaporterW1.git) --- [webpage](https://ucsbaporter.github.io/UCSBaporterW1/first-webpage/)
+  - `r fa("user")` 4th year, Biological Anthropology 
+  - `r fa("university")` Biological Archaeology, Bioarchaeology
+  - `r fa("map-marker")` 37.7749, -122.4194
+
 #### `r fa("globe", color = "blue")` **Kaitlyn Fu** [repo](https://github.com/kaitlynf/kaitlynf.github.io) --- [webpage](https://kaitlynf.github.io)
   - `r fa("user")` Fourth Year, Global Studies and Geography 
   - `r fa("university")` Urban Planning
@@ -151,4 +156,3 @@ library(icon)
   - `r fa("user")` Fourth Year, Geography B.A.
   - `r fa("university")` Gographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
-
