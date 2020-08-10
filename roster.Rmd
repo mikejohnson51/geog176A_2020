@@ -175,4 +175,8 @@ library(icon)
   - `r fa("user")` 3rd Year, Physical Geography (B.S.)
   - `r fa("university")` Geo-Engineering
   - `r fa("map-marker")` 35.9550, -83.9290
-
+  
+#### `r fa("dove", color = "purple")` **Jordan Walton** [repo](https://github.com/jwalton09/jwalton09.github.io) --- [webpage](https://jwalton09.github.io/index.html)
+  - `r fa("user")` Fourth Year Geography B.A.
+  - `r fa("university")` Urban Development
+  - `r fa("map-marker")` 34.41, -119.86
