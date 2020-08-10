@@ -37,7 +37,7 @@ library(icon)
   - `r fa("university")` Health
   - `r fa("map-marker")` 34.41, -119.86
   
-#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](hopewilcox.github.io)
+#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](https://hopewilcox.github.io)
 
   - `r fa("user")` Recent Graduate, Physical Geography
   - `r fa("university")` Remote Sensing
@@ -54,8 +54,6 @@ library(icon)
   - `r fa("user")` Fourth Year Mathematics Major
   - `r fa("university")` Cryptography
   - `r fa("map-marker")` 38.27, -121.95
-  
-<br>
 
 #### `r fa("tree", color = "green")` **Emily Wapman** [repo](https://github.com/ewapman/ewapman.github.io) --- [webpage](https://ewapman.github.io)
   - `r fa("user")` Third Year, Biology
@@ -157,6 +155,11 @@ library(icon)
   - `r fa("university")` Gographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
 
+#### `r fa("anchor", color = "blue")` **Jacob Braslaw** [repo](https://github.com/jacobbraslaw/jacobbraslaw.github.io) --- [webpage](https://jacobbraslaw.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies B.S.
+  - `r fa("university")` Renewable Energy
+  - `r fa("map-marker")` 34.41, -119.84
+
 #### `r fa("wine-glass-alt", color = "green")` **Tianle Lin** [repo](https://github.com/Tianle7777/Tianle_Lin) --- [webpage](https://tianle7777.github.io/Tianle_Lin/index.html)
   - `r fa("user")` Third Year, GIS
   - `r fa("university")` Geographical Information System 
@@ -166,3 +169,4 @@ library(icon)
   - `r fa("user")` 3rd Year, Physical Geography (B.S.)
   - `r fa("university")` Geo-Engineering
   - `r fa("map-marker")` 35.9550, -83.9290
+
