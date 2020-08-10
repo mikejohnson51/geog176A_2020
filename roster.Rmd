@@ -37,6 +37,12 @@ library(icon)
   - `r fa("university")` Health
   - `r fa("map-marker")` 34.41, -119.86
   
+#### `r fa("coffee", color = "teal")` **Hope Wilcox**  [repo](https://github.com/hopewilcox) ---[webpage](hopewilcox.github.io)
+
+  - `r fa("user")` Recent Graduate, Physical Geography
+  - `r fa("university")` Remote Sensing
+  - `r fa("map-marker")` 34.61, -120.19
+
 #### `r fa("train", color = "grey")` **Terrance Hwang** [repo](https://github.com/TerranceHwang/geog176a-lab01) --- [webpage](https://terrancehwang.github.io/geog176a-lab01/)
 
   - `r fa("user")` Fourth Year Geography Major
@@ -48,6 +54,7 @@ library(icon)
   - `r fa("user")` Fourth Year Mathematics Major
   - `r fa("university")` Cryptography
   - `r fa("map-marker")` 38.27, -121.95
+  
 <br>
 
 #### `r fa("tree", color = "green")` **Emily Wapman** [repo](https://github.com/ewapman/ewapman.github.io) --- [webpage](https://ewapman.github.io)
@@ -90,13 +97,62 @@ library(icon)
   - `r fa("university")` Coral Reefs
   - `r fa("map-marker")` 37.89, -122.03
   
-#### `r fa("space-shuttle", color = "teal")` **Johann Ayala-Vargas** [repo](https://github.com/Johannayala-vargas/Johannayala-vargas.io) --- [webpage](file:///Users/Allan/github/Johannayala-vargas/index.html)
+#### `r fa("space-shuttle", color = "teal")` **Johann Ayala-Vargas** [repo](https://github.com/Johannayala-vargas/Johannayala-vargas) --- [webpage](http://Johannayala-vargas.github.io)
   - `r fa("user")` Fourth Year, Physical Geography B.S.
   - `r fa("university")` Geographic Information Systems
   - `r fa("map-marker")` 35.03, -120.49
-
 
 #### `r fa("microscope", color = "Turquoise")` **Abigail M Porter** [repo](https://github.com/UCSBaporter/UCSBaporterW1.git) --- [webpage](https://ucsbaporter.github.io/UCSBaporterW1/first-webpage/)
   - `r fa("user")` 4th year, Biological Anthropology 
   - `r fa("university")` Biological Archaeology, Bioarchaeology
   - `r fa("map-marker")` 37.7749, -122.4194
+
+#### `r fa("globe", color = "blue")` **Kaitlyn Fu** [repo](https://github.com/kaitlynf/kaitlynf.github.io) --- [webpage](https://kaitlynf.github.io)
+  - `r fa("user")` Fourth Year, Global Studies and Geography 
+  - `r fa("university")` Urban Planning
+  - `r fa("map-marker")` 37.33, -121.89
+  
+#### `r fa("heart", color = "red")` **Van Jackson** [repo](https://github.com/van-jackson/van-jackson.github.io) --- [webpage](https://van-jackson.github.io/)
+  - `r fa("user")` Fourth Year, Geography
+  - `r fa("university")` Geographical Information Systems
+  - `r fa("map-marker")` 33.81, -117.81
+  
+#### `r fa("heartbeat", color = "red")` **Yan Wang** [repo](https://github.com/Vialawaila/Vialawaila.github.io) --- [webpage](http://Vialawaila.github.io/index.html)
+  - `r fa("user")` Second Year, Economics and Geography with GIS Emphasis
+  - `r fa("university")` Economic Geography
+  - `r fa("map-marker")` 39.90, 116.41
+
+#### `r fa("frog", color = "pink")` **Xuefei Gao** [repo](https://github.com/XuefeiG/XuefeiG.github.io) --- [webpage](https://XuefeiG.github.io/)
+  - `r fa("user")` Fourth Year, Environmental Studies
+  - `r fa("university")` Botany
+  - `r fa("map-marker")` 39.9042, 116.4074
+  
+#### `r fa("tree", color = "blue")` **Jovany Cota** [repo](https://github.com/jovanycota/-jovanycota-.github.io)---[website](https://jovanycota.github.io/-jovanycota-.github.io/)
+  - `r fa("user")` Third year, Geography major 
+  - `r fa("university")` Poverty & inequality 
+  - `r fa("map-marker")` 34.4130, -119.8660 
+  
+#### `r fa("heart", color = "pink")` **Leslie Alonzo** [repo](https://github.com/LeslieAlonzo98/LeslieAlonzo98) --- [webpage](https://lesliealonzo98.github.io/LeslieAlonzo98/)
+  - `r fa("user")` Fourth Year, Geography
+  - `r fa("university")` Human Geography and Food Systems
+  - `r fa("map-marker")` 33.1347, -117.072
+
+#### `r fa("space-shuttle", color = "gray")` **Barush Martinez** [repo](https://github.com/Barush44/github.io) --- [webpage](https://barush44.github.io/github.io/)
+  - `r fa("user")` Fourth Year, Geography B.S.
+  - `r fa("university")` Oceanography 
+  - `r fa("map-marker")` 32.77, -117.07
+  
+#### `r fa("fish", color = "teal")` **Kyler Plouffe** [repo](https://github.com/kplouffe/kplouffe) --- [webpage](https://kplouffe.github.io/kplouffe/)
+  - `r fa("user")` Fourth Year, Aquatic Biology
+  - `r fa("university")` Aquaculture
+  - `r fa("map-marker")` 34.412968, -119.865065
+
+#### `r fa("superpowers", color = "darkorange1")` **Nate Edgar** [repo](https://github.com/Nateedgar97/Nateedgar97.github.io) --- [webpage](https://nateedgar97.github.io/)
+  - `r fa("user")` Third Year, Geography With GIS Emphisis
+  - `r fa("university")` Geography
+  - `r fa("map-marker")` 34.1478 N, 118.1445 W
+
+#### `r fa("sun", color = "purple")` **Chelsey Su** [repo](https://github.com/suchaoxi/geog176a_2020) --- [webpage](https://suchaoxi.github.io/geog176a_2020/)
+  - `r fa("user")` Fourth Year, Geography B.A.
+  - `r fa("university")` Gographical Information System 
+  - `r fa("map-marker")` 34.0409, -118.1667
