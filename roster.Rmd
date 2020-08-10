@@ -1,4 +1,3 @@
-
 ---
 title: '&nbsp;'
 ---
@@ -182,3 +181,32 @@ library(icon)
   - `r fa("university")` area of research 
   - `r fa("map-marker")` 34.43, -119.88
 
+#### `r fa("space-shuttle", color = "red")` **Conor Dunn** [repo](https://github.com/conor-dunn/Conor-Dunn) --- [webpage](https://conor-dunn.github.io/Conor-Dunn/)
+  - `r fa("user")` Third Year, Geography
+  - `r fa("university")` Human Geography
+  - `r fa("map-marker")` 33.4484, 112.0740
+
+#### `r fa("dove", color = "purple")` **Jordan Walton** [repo](https://github.com/jwalton09/jwalton09.github.io) --- [webpage](https://jwalton09.github.io/index.html)
+  - `r fa("user")` Fourth Year Geography B.A.
+  - `r fa("university")` Urban Development
+  - `r fa("map-marker")` 34.41, -119.86
+
+#### `r fa("hand-peace", color = "teal")` **Shannon Sweeney** [repo](https://github.com/Shannonfsweeney/geog176A2020) --- [webpage](https://shannonfsweeney.github.io/geog176A2020/)
+  - `r fa("user")` 3rd Year, Environmental Studies B.A.
+  - `r fa("university")` Environmental Justice
+  - `r fa("map-marker")` 34.4133, -119.8610
+
+#### `r fa("birthday-cake", color = "pink")`**Mikhail Prokhorov** [repo](https://github.com/mikhailprokhorov/mikhailprokhorov) --- [webpage](https://mikhailprokhorov.github.io/mikhailprokhorov)
+  - `r fa("user")` 4th Year, Philosophy (B.A.), Geography(B.A.), Film and Media Studies (B.A.)
+  - `r fa("university")` Sports Analytics
+  - `r fa("map-marker")` 34.18, -118.94
+  
+#### `r fa("leaf", color = "teal")` **Angus Watters** [repo](https://github.com/anguswg-ucsb/anguswg-ucsb.github.io) --- [webpage](https://anguswg-ucsb.github.io/)
+  - `r fa("user")` Fourth Year, Geography (GIS)
+  - `r fa("university")` Water Supply and Demand
+  - `r fa("map-marker")` 34.42, -119.69
+  
+#### `r fa("paper-plane", color = "blue")` **ZhongchangYao** [repo](https://github.com/ZhongchangYao/ZhongchangYao.git) --- [webpage](https://zhongchangyao.github.io/ZhongchangYao/)
+  - `r fa("user")` 3rd Year, Geography(GIS)
+  - `r fa("university")` Cartography
+  - `r fa("map-marker")` 34.41, -119.85
