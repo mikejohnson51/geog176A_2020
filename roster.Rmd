@@ -130,3 +130,7 @@ library(icon)
   - `r fa("university")` Aquaculture
   - `r fa("map-marker")` 34.412968, -119.865065
 
+#### `r fa("sun", color = "purple")` **Chelsey Su** [repo](https://github.com/suchaoxi/geog176a_2020) --- [webpage](https://suchaoxi.github.io/geog176a_2020/)
+  - `r fa("user")` Fourth Year, Geography B.A.
+  - `r fa("university")` Gographical Information System 
+  - `r fa("map-marker")` 34.0409, -118.1667
