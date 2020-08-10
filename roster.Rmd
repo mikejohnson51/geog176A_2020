@@ -176,3 +176,7 @@ library(icon)
   - `r fa("university")` Geo-Engineering
   - `r fa("map-marker")` 35.9550, -83.9290
 
+#### `r fa("birthday-cake", color = "pink")`**Mikhail Prokhorov** [repo](https://github.com/mikhailprokhorov/mikhailprokhorov) --- [webpage](https://mikhailprokhorov.github.io/mikhailprokhorov)
+  - `r fa("user")` 4th Year, Philosophy (B.A.), Geography(B.A.), Film and Media Studies (B.A.)
+  - `r fa("university")` Sports Analytics
+  - `r fa("map-marker")` 34.18, -118.94
