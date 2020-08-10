@@ -2,6 +2,7 @@
 title: "&nbsp;"
 ---
 
+
 <br><br>
 
 ```{r, echo = FALSE}
@@ -189,3 +190,9 @@ library(icon)
   - `r fa("user")` 4th Year, Philosophy (B.A.), Geography(B.A.), Film and Media Studies (B.A.)
   - `r fa("university")` Sports Analytics
   - `r fa("map-marker")` 34.18, -118.94
+  
+#### `r fa("leaf", color = "teal")` **Angus Watters** [repo](https://github.com/anguswg-ucsb/anguswg-ucsb.github.io) --- [webpage](https://anguswg-ucsb.github.io/)
+  - `r fa("user")` Fourth Year, Geography (GIS)
+  - `r fa("university")` Water Supply and Demand
+  - `r fa("map-marker")` 34.42, -119.69
+  
