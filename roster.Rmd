@@ -196,3 +196,9 @@ library(icon)
   - `r fa("university")` Water Supply and Demand
   - `r fa("map-marker")` 34.42, -119.69
   
+#### `r fa("car", color = "green")` **Liam Finn**
+[repo](https://github.com/anthonyfinn/liam.finn) ---
+[webpage](https://anthonyfinn.github.io/liam.finn/index.html)  
+  - `r fa("user")` Recent Graduate, Geography (GIS)  
+  - `r fa("university")` Remote Sensing  
+  - `r fa("map-marker")` 37.48, -122.19  
