@@ -153,6 +153,6 @@ library(icon)
   - `r fa("map-marker")` 34.0409, -118.1667
 
 #### `r fa("adobe", color = "yellow")` **Stone Shi** [repo](https://github.com/MycraySH/StoneGIS) --- [webpage](https://mycraysh.github.io/StoneGIS/)
-  - `r fa("user")` Instructor
+  - `r fa("user")` 2nd Year, GIS 
   - `r fa("university")` Geographical Information System
   - `r fa("map-marker")` 39.322, 115.897
