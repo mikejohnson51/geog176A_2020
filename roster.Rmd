@@ -211,7 +211,12 @@ library(icon)
   - `r fa("university")` Cartography
   - `r fa("map-marker")` 34.41, -119.85
   
-#### `r fa("adobe", color = "yellow")` **Stone Shi** [repo](https://github.com/MycraySH/StoneGIS) --- [webpage](https://mycraysh.github.io/StoneGIS/)
+#### `r fa("dove", color = "yellow")` **Stone Shi** [repo](https://github.com/MycraySH/StoneGIS) --- [webpage](https://mycraysh.github.io/StoneGIS/)
   - `r fa("user")` 2nd Year, GIS 
   - `r fa("university")` Geographical Information System
   - `r fa("map-marker")` 39.322, 115.897
+  
+#### `r fa("leaf", color = "purple")` **Drew Silva** [repo](https://github.com/drewbsilva/drewbsilva) --- [webpage](https://drewbsilva.github.io/drewbsilva/)
+  - `r fa("user")` 4th Year, Geography (BA) Anthropology (BA)
+  - `r fa("university")` Geography and Applied Psychology
+  - `r fa("map-marker")` 21.8996, -159.4638
