@@ -223,7 +223,15 @@ library(icon)
   - `r fa("university")` Geographical Information System
   - `r fa("map-marker")` 39.322, 115.897
 
+  
+#### `r fa("leaf", color = "purple")` **Drew Silva** [repo](https://github.com/drewbsilva/drewbsilva) --- [webpage](https://drewbsilva.github.io/drewbsilva/)
+  - `r fa("user")` 4th Year, Geography (BA) Anthropology (BA)
+  - `r fa("university")` Geography and Applied Psychology
+  - `r fa("map-marker")` 21.8996, -159.4638
+
+
 #### `r fa("tree", color = "green")` **Jordan Molinski** [repo](https://github.com/J-Molinski/J-Molinski.git) --- [webpage](https://j-molinski.github.io/J-Molinski/)
   - `r fa("user")` 4th Year, Environmental Science (B.S.)
   - `r fa("university")` Toxicology
   - `r fa("map-marker")` 34.44, -119.63
+
