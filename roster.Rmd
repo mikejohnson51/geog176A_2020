@@ -206,14 +206,12 @@ library(icon)
   - `r fa("university")` Water Supply and Demand
   - `r fa("map-marker")` 34.42, -119.69
   
-#### `r fa("car", color = "green")` **Liam Finn**
-[repo](https://github.com/anthonyfinn/liam.finn) ---
-[webpage](https://anthonyfinn.github.io/liam.finn/index.html)  
+#### `r fa("car", color = "green")` **Liam Finn** [repo](https://github.com/anthonyfinn/liam.finn) --- [webpage](https://anthonyfinn.github.io/liam.finn/index.html)    
   - `r fa("user")` Recent Graduate, Geography (GIS)  
   - `r fa("university")` Remote Sensing  
   - `r fa("map-marker")` 37.48, -122.19  
 
-#### `r fa("paper-plane", color = "blue")` **ZhongchangYao** [repo](https://github.com/ZhongchangYao/ZhongchangYao.git) --- [webpage](https://zhongchangyao.github.io/ZhongchangYao/)
+#### `r fa("paper-plane", color = "blue")` **ZhongchangYao** [repo](https://github.com/ZhongchangYao/ZhongchangYao.git) --- [webpage](https://zhongchangyao.github.io/ZhongchangYao/)  
   - `r fa("user")` 3rd Year, Geography(GIS)
   - `r fa("university")` Cartography
   - `r fa("map-marker")` 34.41, -119.85
