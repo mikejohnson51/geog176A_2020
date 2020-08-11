@@ -215,3 +215,8 @@ library(icon)
   - `r fa("user")` 2nd Year, GIS 
   - `r fa("university")` Geographical Information System
   - `r fa("map-marker")` 39.322, 115.897
+
+#### `r fa("tree", color = "green")` **Jordan Molinski** [repo](https://github.com/J-Molinski/J-Molinski.git) --- [webpage](https://j-molinski.github.io/J-Molinski/)
+  - `r fa("user")` 4th Year, Environmental Science (B.S.)
+  - `r fa("university")` Toxicology
+  - `r fa("map-marker")` 34.44, -119.63
