@@ -210,3 +210,8 @@ library(icon)
   - `r fa("user")` 3rd Year, Geography(GIS)
   - `r fa("university")` Cartography
   - `r fa("map-marker")` 34.41, -119.85
+  
+#### `r fa("adobe", color = "yellow")` **Stone Shi** [repo](https://github.com/MycraySH/StoneGIS) --- [webpage](https://mycraysh.github.io/StoneGIS/)
+  - `r fa("user")` 2nd Year, GIS 
+  - `r fa("university")` Geographical Information System
+  - `r fa("map-marker")` 39.322, 115.897
