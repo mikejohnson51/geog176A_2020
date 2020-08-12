@@ -233,3 +233,8 @@ library(icon)
   - `r fa("university")` Toxicology
   - `r fa("map-marker")` 34.44, -119.63
 
+#### `r fa("crow", color = "black")` **Amy Kou** [repo](https://github.com/amykou43/amykou43.git) --- [webpage](https://amykou43.github.io/amykou43/)
+
+  - `r fa("user")` 4th Year, Geography (GIS)
+  - `r fa("university")` Geographical Information Systems
+  - `r fa("map-marker")` 37.394010, -121.848070
