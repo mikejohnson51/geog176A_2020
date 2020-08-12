@@ -238,3 +238,9 @@ library(icon)
   - `r fa("user")` 4th Year, Geography (GIS)
   - `r fa("university")` Geographical Information Systems
   - `r fa("map-marker")` 37.394010, -121.848070
+  
+#### `r fa("tree", color = "green")` **Albert Dominguez** [repo](https://github.com/albertdominguez1/albertdominguez1) --- [webpage](https://albertdominguez1.github.io/albertdominguez1/)
+
+  - `r fa("user")` 4th Year, Geography (GIS)
+  - `r fa("university")` Human Geography
+  - `r fa("map-marker")` 34.1975, 119.1771
