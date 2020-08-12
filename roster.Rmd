@@ -23,6 +23,11 @@ library(icon)
   - `r fa("university")` 
   - `r fa("map-marker")` 35.9, 127.7
   
+#### `r fa("android", color = "chartreuse")` **Ryan Erickson** [repo](https://github.com/IamRyanE) --- [webpage](iamryane.github.io/ryane/)
+  - `r fa("user")` Instructional Assistant
+  - `r fa("university")` Geographic Informational Science
+  - `r fa("map-marker")` 34.13, -117.2
+  
 *****
 
 #### `r fa("space-shuttle", color = "green")` **Tyler Chia** [repo](https://github.com/TylerChia/TylerChia) --- [webpage](https://tylerchia.github.io/TylerChia/)
