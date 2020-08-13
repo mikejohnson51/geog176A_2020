@@ -257,4 +257,11 @@ library(icon)
   - `r fa("user")` 4th Year, Geography (GIS)
   - `r fa("university")` Geographical Information Systems
   - `r fa("map-marker")` 34.4133, -119.8610
+  
+
+#### `r fa("swimmer", color = "teal")` **Bryn McGowan** [repo](https://github.com/brynmcgowan22/brynmcgowan22.github.io) --- [webpage](https://brynmcgowan22.github.io/)
+
+  - `r fa("user")` 4th Year, Geography
+  - `r fa("university")` Agriculture
+  - `r fa("map-marker")` 37.9179, -122.0043
 
