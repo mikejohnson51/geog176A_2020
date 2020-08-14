@@ -159,6 +159,11 @@ library(icon)
   - `r fa("university")` Gographical Information System 
   - `r fa("map-marker")` 34.0409, -118.1667
 
+#### `r fa("sun", color = "orange")` **Stephanie Hurtado** [repo](https://github.com/shurtadogonzalez/shurtadogonzalez.github.io) --- [webpage](https://shurtadogonzalez.github.io/geog176A-lab01/)
+  - `r fa("user")` Recent Graduate, Environmental Studies 
+  - `r fa("university")` Remote Sensing 
+  - `r fa("map-marker")` 34.9530, -120.4357 
+
 #### `r fa("anchor", color = "blue")` **Jacob Braslaw** [repo](https://github.com/jacobbraslaw/jacobbraslaw.github.io) --- [webpage](https://jacobbraslaw.github.io/)
   - `r fa("user")` Fourth Year, Environmental Studies B.S.
   - `r fa("university")` Renewable Energy
@@ -167,8 +172,7 @@ library(icon)
 #### `r fa("wine-glass-alt", color = "green")` **Tianle Lin** [repo](https://github.com/Tianle7777/Tianle_Lin) --- [webpage](https://tianle7777.github.io/Tianle_Lin/index.html)
   - `r fa("user")` Third Year, GIS
   - `r fa("university")` Geographical Information System 
-  - `r fa("map-marker")` 34.2617 N, 1195049 W
-
+  - `r fa("map-marker")` 34.2617 N, -119.5049 W
 
 #### `r fa("arrows-alt", color = "blue")` **Xingxin Li** [repo](https://github.com/ousdon/geog176a-lab1) --- [webpage](https://ousdon.github.io/geog176a-lab1/index.html)
   - `r fa("user")` 4th Year, Geography GIS (B.A.)
@@ -179,8 +183,7 @@ library(icon)
   - `r fa("user")` 3rd Year, Physical Geography (B.S.)
   - `r fa("university")` Geo-Engineering
   - `r fa("map-marker")` 35.9550, -83.9290
-
-
+  
 #### `r fa("user-graduate", color = "gray")` **Zijie Wang** [repo](https://github.com/zijie67/Zijie-Wang.git) --- [webpage](https://zijie67.github.io/Zijie_Wang/index.html)
   - `r fa("user")` Fourth Year, Geography B.S.
   - `r fa("university")` area of research 
@@ -244,13 +247,11 @@ library(icon)
   - `r fa("university")` Geographical Information Systems
   - `r fa("map-marker")` 37.394010, -121.848070
 
-  
 #### `r fa("tree", color = "green")` **Albert Dominguez** [repo](https://github.com/albertdominguez1/albertdominguez1) --- [webpage](https://albertdominguez1.github.io/albertdominguez1/)
 
   - `r fa("user")` 4th Year, Geography (GIS)
   - `r fa("university")` Human Geography
   - `r fa("map-marker")` 34.1975, 119.1771
-
 
 #### `r fa("play", color = "blue")` **Giselle Orozco** [repo](https://github.com/giselleorozco/giselleorozco.github.io.git) --- [webpage](https://giselleorozco.github.io)
 
@@ -258,7 +259,6 @@ library(icon)
   - `r fa("university")` Geographical Information Systems
   - `r fa("map-marker")` 34.4133, -119.8610
   
-
 #### `r fa("swimmer", color = "teal")` **Bryn McGowan** [repo](https://github.com/brynmcgowan22/brynmcgowan22.github.io) --- [webpage](https://brynmcgowan22.github.io/)
 
   - `r fa("user")` 4th Year, Geography
