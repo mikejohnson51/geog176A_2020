@@ -159,7 +159,7 @@ library(icon)
 #### `r fa("sun", color = "orange")` **Stephanie Hurtado** [repo](https://github.com/shurtadogonzalez/shurtadogonzalez.github.io) --- [webpage](https://shurtadogonzalez.github.io/geog176A-lab01/)
   - `r fa("user")` Recent Graduate, Environmental Studies 
   - `r fa("university")` Remote Sensing 
-  - `r fa("map-marker")` 34.9530, -120.4357
+  - `r fa("map-marker")` 34.9530, -120.4357 
 
 #### `r fa("anchor", color = "blue")` **Jacob Braslaw** [repo](https://github.com/jacobbraslaw/jacobbraslaw.github.io) --- [webpage](https://jacobbraslaw.github.io/)
   - `r fa("user")` Fourth Year, Environmental Studies B.S.
